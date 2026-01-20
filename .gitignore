@@ -210,6 +210,9 @@ __marimo__/
 /datasets/LoveDA/Train/
 /datasets/LoveDA/Val/
 /datasets/LoveDA/Test/
+/datasets/Park/*.zip
+/datasets/Park/边界裁剪图片_已处理/
 /checkpoints/
+/segmentation_results/
 
 .DS_Store
