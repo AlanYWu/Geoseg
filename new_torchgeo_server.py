@@ -110,7 +110,7 @@ def main() -> None:
         # No pretrained weights here to avoid version/state_dict mismatch issues
         weights=None,
         in_channels=3,
-        num_classes=7,
+        num_classes=8, # 从0到6共7类，
         loss="ce",
         ignore_index=0,      # background
     )
